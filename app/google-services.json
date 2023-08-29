@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285166695091",
+    "project_id": "megaapp-2ab97",
+    "storage_bucket": "megaapp-2ab97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285166695091:android:4e6273abef714c53cc36c6",
+        "android_client_info": {
+          "package_name": "com.example.megaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285166695091-egp33gf006hsdoa4ghh9c1u469uh8mqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVARzgWwDTi8OdSnAUSlm17hDju8F6tbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285166695091-egp33gf006hsdoa4ghh9c1u469uh8mqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
