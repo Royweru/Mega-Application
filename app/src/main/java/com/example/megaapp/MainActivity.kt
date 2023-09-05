@@ -1,4 +1,4 @@
-package com.example.megaapp
+,package com.example.megaapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
